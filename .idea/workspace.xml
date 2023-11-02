@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f66d9d-244e-49fc-a01a-15866bdde5d8" name="Default Changelist" comment="" />
+    <list default="true" id="c0f66d9d-244e-49fc-a01a-15866bdde5d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Xb1alGdZqPDYRXvNlOaYsKLxYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,25 +81,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1698883844803" />
-    <state width="1322" height="167" key="GridCell.Tab.0.bottom" timestamp="1698886329724">
+    <state width="1322" height="167" key="GridCell.Tab.0.bottom" timestamp="1698888902289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1698886329724" />
-    <state width="1322" height="167" key="GridCell.Tab.0.center" timestamp="1698886329723">
+    <state width="1322" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
+    <state width="1322" height="167" key="GridCell.Tab.0.center" timestamp="1698888902289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1698886329723" />
-    <state width="1322" height="167" key="GridCell.Tab.0.left" timestamp="1698886329723">
+    <state width="1322" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
+    <state width="1322" height="167" key="GridCell.Tab.0.left" timestamp="1698888902289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1698886329723" />
-    <state width="1322" height="167" key="GridCell.Tab.0.right" timestamp="1698886329723">
+    <state width="1322" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
+    <state width="1322" height="167" key="GridCell.Tab.0.right" timestamp="1698888902289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1698886329723" />
+    <state width="1322" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1698883847700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1698883847700" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1698924529090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1698924529090" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1698886766610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1698886766610" />
   </component>
 </project>
