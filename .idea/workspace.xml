@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f66d9d-244e-49fc-a01a-15866bdde5d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagenes/fondo1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.crud411/Usuario$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.crud411/Usuario$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.crud411/Usuario$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.crud411/Usuario$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.crud411/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.crud411/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Usuario.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Usuario.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +41,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\IdeaProjects\com.crud411\src\imagenes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login" />
+      <module name="com.crud411" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Usuario" />
       <module name="com.crud411" />
@@ -43,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.Usuario" />
       </list>
     </recent_temporary>
@@ -73,38 +94,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1698886048775">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1699578538722">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699578538722" />
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1698886048775" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1699576042011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699576042011" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1698883844803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1698883844803" />
-    <state width="1322" height="167" key="GridCell.Tab.0.bottom" timestamp="1698888902289">
+    <state width="1322" height="228" key="GridCell.Tab.0.bottom" timestamp="1699579167690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
-    <state width="1322" height="167" key="GridCell.Tab.0.center" timestamp="1698888902289">
+    <state width="1322" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699579167690" />
+    <state width="1322" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1698926114816" />
+    <state width="1322" height="228" key="GridCell.Tab.0.center" timestamp="1699579167690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
-    <state width="1322" height="167" key="GridCell.Tab.0.left" timestamp="1698888902289">
+    <state width="1322" height="228" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699579167690" />
+    <state width="1322" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1698926114816" />
+    <state width="1322" height="228" key="GridCell.Tab.0.left" timestamp="1699579167690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
-    <state width="1322" height="167" key="GridCell.Tab.0.right" timestamp="1698888902289">
+    <state width="1322" height="228" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699579167690" />
+    <state width="1322" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1698926114816" />
+    <state width="1322" height="228" key="GridCell.Tab.0.right" timestamp="1699579167690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1698888902289" />
+    <state width="1322" height="228" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699579167690" />
+    <state width="1322" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1698926114816" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1698883847700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1698883847700" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1698924529090">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1699579471801">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1698924529090" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-211.1920.1080@0.0.1366.728" timestamp="1699579471801" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1920.1080@0.0.1366.728" timestamp="1698931626178" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1698926050596" />
     <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1698886766610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,4 +1,5 @@
 import javax.swing.*;
+import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.*;
@@ -11,9 +12,13 @@ public class Usuario extends JFrame {
     private JButton consultarBoton;
     private JButton ingresarBoton;
     private JList lista;
+    private JTable tablaDatos;
     Connection conexion;
     PreparedStatement ps;
+    String[] campos={"id", "nombre", "rol"};
+    String[] registros = new String[10];
     DefaultListModel mod = new DefaultListModel();
+    DefaultTableModel modTab = new DefaultTableModel(null, campos);
     Statement st;
     ResultSet r;
 
@@ -50,12 +55,16 @@ public class Usuario extends JFrame {
     }
     void consultar() throws SQLException {
         conectar();
-        lista.setModel(mod);
+        //lista.setModel(mod);
+        tablaDatos.setModel(modTab);
         st = conexion.createStatement();
         r = st.executeQuery("Select id, nombre, rol from usuario");
-        mod.removeAllElements();
+        //mod.removeAllElements();
         while (r.next()){
-            mod.addElement(r.getString(1)+ " "+ r.getString(2) + " " + r.getString(3));
+            registros[0]= r.getString("id");
+            registros[1]= r.getString("nombre");
+            registros[2]= r.getString("rol");
+            modTab.addRow(registros);
         }
 
     }
@@ -77,7 +86,7 @@ public class Usuario extends JFrame {
 
     }
 
-    public static void main(String[] args) {
+   public void mostrarVentana() {
         Usuario usuario1 = new Usuario();
         usuario1.setContentPane(new Usuario().panel);
         usuario1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
